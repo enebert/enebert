@@ -52,8 +52,11 @@ I thrive where mathematics, computer science, and engineering intersect. My back
 
 - **Skills demonstrated:** 
     - Developed guided notes to move away from static slides. 
+
     - Communicated basic logic and automata theory for student skills in carry-on courses.
+
     - Developed exercises for student skill practice in-class.
+
     - Presented abstract theory around P / NP problem and mapping reductions.
 
 
@@ -89,14 +92,17 @@ I thrive where mathematics, computer science, and engineering intersect. My back
 - [Data Structures / Graph Theory](https://github.com/enebert/Data-Structures) 
 
     - Implemented graph data structure in Java along with common graph algorithms.
+
     - Explored lambda functions and functional programming in Java while implementing Dijkstra's algorithm.
+
     - Curated notes based on Richard Stanley's book *Algebraic Combinatorics*
+
     - Applied object-oriented design techniques to create modular, maintainable, reusable code. 
 
 ---
 
 ## 🌐 Portfolio Website
-Explore full projects, papers, and tutorials:  
+Explore full course development, notes, and interests:  
 [Slow Down To Go Fast](https://www.slowdowntogofast.org/)
 
 ---
