@@ -1,7 +1,7 @@
 # Eric Ebert 👋
 
 ---
-Embedded Systems Engineer | Algorithms | Researcher | Educator
+Embedded Systems Engineer | Algorithms | Mathematician | Researcher | Educator
 
 ---
 I thrive where mathematics, computer science, and engineering intersect. My background includes Marine Corps electronics maintenance, graduate research in algebra and number theory, and teaching students from middle school to university. I enjoy tackling challenges that bridge multiple disciplines. I'm currently interested in expanding into embedded systems and formal verification.
@@ -14,7 +14,7 @@ I thrive where mathematics, computer science, and engineering intersect. My back
 | Robotics Mentor | Experience with Rev Robotics motor controlers and sensors, Developed mini-lessons for student skill development |
 | Digital Logic | Boolean Algebras, Combinatorial Circuits, Sequential Circuits, Explored FPGAs and Verilog |
 | Software & Dev Tools | Git, Makefiles, Linux, Debugging |
-| Research & Analysis | Algorithm Design, Computability Theory, Theory of CS |
+| Research & Analysis | Algorithm Design, Computability Theory, Mathematical Cryptography, Theory of CS |
 | Education & Communication | Curriculum Design, Lab Guides, Mentoring, Creating Video Tutorials |
 
 ---
@@ -47,6 +47,7 @@ I thrive where mathematics, computer science, and engineering intersect. My back
 
     - Taught senior seminar course where students implemented classical cryptography algorithms in C++, presented topics from Jean-Phillippe Aumasson's *Serious Cryptography*.
 
+
 ### 3. Teaching Discrete Structures \& Algorithms
 - **Description:** Taught CS 295: Discrete Structures and CS 462: Algorithm Analysis at Loyola Maryland University. 
 
@@ -58,6 +59,33 @@ I thrive where mathematics, computer science, and engineering intersect. My back
     - Developed exercises for student skill practice in-class.
 
     - Presented abstract theory around P / NP problem and mapping reductions.
+
+### 3. Teaching Mathematical Cryptography
+- **Description:** Taught mathematical cryptography across multiple levels, including middle and high school programs, in introductory courses and seminars. Framed standard primitives through their underlying number-theoretic concepts with an emphasis on problem solving and applying the techniques taught.
+
+- **Skills demonstrated:**
+
+    - Taught Summer programs as an introduction to problem solving, number theory and matrix arithmetic applied to classical encryption / decryption algorithms and modern schoolbook algorithms.
+
+    - Developed and implemented a high school senior seminar that progressed from implementing classical systems in C++, through an introdcution to algorithmic number theory, to presentations on modern implementations of RSA, Diffie Hellman Key Exchange and ECC.
+
+    - Explored discrete log-based systems through small mini-lectures on the Chinese Remainder Theorem and roots of unity. Students combined their individual computations to result in a solution to a problem involving small primes.
+
+    - Guided students through RSA encryption and Ellipitc Curve Cryptography highlighting the similarity between fast exponentiation in RSA and efficiently computing multiples in ECC. Discussed why elliptic curve systems achieve comparable security with smaller key sizes. Stressed the group structure and arithmetic complexity of elliptic curves.
+
+    - Taught classical integer factorization algorithms / primality tests (e.g. Fermat's method, Pollard-Rho, Lehmer-Lucas, Miller-Rabin) to illustrate why integer factorization is computationally hard in practice and how this hardness assumption underpins RSA encryption. Discussed how RSA has motivated the development of factorization algorithms and primality tests.
+
+- **Sources Used:**
+    
+    - *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography* by Simon Singh
+    - *What is Computer Science? An Information Security Perspective* by Daniel Page \& Nigel Smart
+
+    - *Serious Cryptography: A Practical Introdcution to Modern Encryption* by Jean-Phillippe Aumasson
+    - *Understanding Cryptography: A Textbook for Students and Practitioners* by Christof Paar \& Jan Pelzl
+
+    - *An Introduction to Mathematical Cryptography* by Jeffry Hoffstein, Jill Pipher, \& Joseph H. Silverman
+
+    - *Algorithmic Number Theory: Lattices, Number Fields, Curves and Cryptography* by J.P. Buhler and P. Stevenhagen
 
 
 ### 3. Radar \& Hardware Support | Electronics Technician
